@@ -64,4 +64,5 @@ The snippet above stays copy-paste simple. Before you ship, a few **required** s
 
 ## Further reading
 
+- [Supplier Invoice Speech-to-Text: Balancing Transcript Quality Across a Multi-Model Gateway](docs/supplier-invoice-speech-to-text-balancing-transcr-eq2ubd.md)
 - [Trust-Bound PDF Pages Explained: Semantic Search and Embeddings for Hiring](docs/trust-bound-pdf-pages-explained-semantic-search-a-10eiqd.md)
